@@ -1,0 +1,866 @@
+                     The Madness of Lancelot Biggs
+
+                           By NELSON S. BOND
+
+           There was more at stake than just a football game
+           for Lancelot Biggs and the crew of the Saturn. So
+          Biggs made a bargain; his rocket emblem in exchange
+            for a new uranium condenser--and how it worked!
+
+           [Transcriber's Note: This etext was produced from
+                   Fantastic Adventures April 1940.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+[Illustration: With a sigh, Biggs went to work on the radio while the
+captain glared.]
+
+
+We had barely cleared Lunar Three and I was taking final instructions
+from Joe Marlowe, the port Sparks, when my plates dulled out and there
+I was staring at a blank expanse of metal. So I said, "Merdejo!" which
+is Universal for a naughty word, and started looking for the trouble.
+I was on my hands and knees under the audio bank when Cap Hanson came
+into my control turret.
+
+He said, "You lose somethin', Sparks?"
+
+"Two minutes ago," I told him. "Take a look around. If you see
+something bright red and covered with hairy spikes, don't step on it.
+It's my temper."
+
+The Skipper sighed. "If my troubles," he declaimed, "was as mild as
+your'n, I'd do cartwheels from here to Venus. Sparks, you got a copy of
+the Space Manual here, ain't you?"
+
+I nodded toward my bookcase; he found the reg book and leafed through
+it carefully. Finally he shook his head.
+
+"It ain't here," he gloomed. "Are you sure this is the latest edition?"
+
+"Just what are you looking for?" I asked him.
+
+"I was kinda thinkin'," he said hopefully, "there might be a paragraph
+givin' a space commander permission to boil his First Mate in oil,
+or cut him into small cubes an' feed him to the octopussies. But the
+waffle-fannies what wrote that book--"
+
+I knew, then. It was the same old complaint. Our lanky and incredibly
+omniscient friend, Lancelot Biggs, whose genius for getting ye goode
+shippe _Saturn_ out of tight spots was surpassed only by his ability to
+fester Cap Hanson's epidermis, was back in the soup.
+
+I said, "But, sweet comets, Cap, what's he done now? He hasn't had time
+to do much. We've just pulled our Ampie[1] out of Earth's H-layer."
+
+[Footnote 1: The strange, energy-devouring Venusian creature that
+serves as a protective shield for space ships going through a planetary
+Heaviside layer.--Ed.]
+
+"Which," rasped the skipper, "took three hours. Or time enough for
+Mister Biggs to render hisself liable to homicide. I've tooken plenty
+from that long-legged scarecrow. I got carpeted for platinum-chasin' on
+his say-so.[2] I caressed pirates[3]--which, by the way, if you ever
+tell anybody, Sparks, I'll massacre you for--an' I--"
+
+[Footnote 2: "FOB Venus", Fantastic Adventures, Nov., 1939.--Ed.]
+
+[Footnote 3: "Lancelot Biggs Cooks a Pirate," Fantastic Adventures,
+Feb., 1939.--Ed.]
+
+"You also," I reminded him, "got your stripes saved on two separate
+occasions. Not to mention your bank-roll and your life. Remember?"
+
+"Nevertheless," said the skipper stiffly, "an' however, this time he's
+gone too far. He's been makin' eyes at my daughter."
+
+"Your," I repeated slowly, "daughter!"
+
+"You seen her. She come aboard at Long Island Port for the Venus trip."
+Here his space-gnarled, leathery face cracked into a grin that would
+have melted custard. "Pretty as a picture, don't you think? Some say
+she resembles me."
+
+"Some people," I told him dazedly, "will say anything for a laugh."
+I was thinking about that girl. What a girl! Five and a half feet of
+cream and velvet, surmounted by hair the color of a Martian sunset.
+Eyes like blue haze over Venus, only alive with crinkly laughter.
+Sure, she resembled the skipper! They had the same number of arms and
+legs; they each had one nose and two eyes and two ears--but there the
+similarity ended. Their difference was that between a lumbering old
+space freighter like the _Saturn_ and a modern, streamlined man-o'-war.
+And I _do_ mean streamlined!
+
+The skipper said sourly, "Well, get the blank look off your pan,
+Sparks. An' take down a special message from me to Mr. Romeo Biggs, on
+account of if I try to tell him myself I'll forget my dignity an' tear
+him into asteroids. Tell him that the next time I catch him tossin'
+goo-goo eyes at Diane, I'll give him a one-way ticket through the
+air-lock. That's all!"
+
+And he left the turret, snorting. I stared after him dreamily. I found
+myself doing something I haven't done since I was a kid, counting off
+my name with that of Diane Hanson. "Friendship, courtship, love, hate,
+marriage--"
+
+It came out "friendship." I told you I had my troubles....
+
+       *       *       *       *       *
+
+After a while came a sound like a three-legged pelican doing the
+Martian fling in a cornpatch, and Lancelot Biggs ambled into my turret,
+eyes aglow, his unbelievable Adam's-apple bobbing up and down like a
+photon in a cyclotron. I could tell he was busting with the desire to
+spill his overflowing heart to me, but he said, "Trouble, Sparks?"
+
+See? That's why you just couldn't help liking the guy. Soon as he saw
+me fiddling around the audio bank he was ready to help. It's hard to
+figure a jasper like Biggs. I sometimes thought he was the dumbest
+mortal who ever hopped gravs, but just about the time I'd be ready to
+delegate him to the Booby-hatch Convention he'd come through with a
+spark of brilliance that would make Sol look like an infra-red ray.
+
+I told him glumly, "I wish the nearest I'd ever come to radio was
+playin' that kid's game with beans. This time the audio's gone haywire
+and I can't even find out what the hell ails it."
+
+He came over beside me and looked. He jiggled a few wires, snapped
+switches and succeeded in bunting the button of the feed line cable. At
+last he said, "The trouble's in the plate, isn't it, Sparks?"
+
+"Looks as if. It's gone cold and I can't raise a signal out of it."
+
+"These plates you use," he frowned, "are made of a seleno-aluminum
+alloy, aren't they?"
+
+"Right," I told him, "as rain. However right that is. And they're as
+dependable as a spacecomber's promises. Always going on the blink just
+when you need 'em most."
+
+"That's what I thought." Biggs shifted his gawky length from one
+foot to the other, a sign of deep cogitation I'd seen before. Then,
+suddenly, "Listen, Sparks," he blurted, "I've been thinking over that
+problem--"
+
+I rose hastily.
+
+"Look, Mr. Biggs, if you've been thinking, this is where I get off.
+Don't tell me or I'll catch the contagion. I'm just a hard-working bug
+pounder--"
+
+"--and I think I know a way," he continued eagerly, "to put an end to
+space radio transmission difficulties. They're using the wrong metal in
+the audio plates, _that's_ the trouble! The seleno-aluminum alloy was
+all right for radio in the early days of television, but space-flight
+demands a sturdier, and at the same time more sensitive receptor."
+
+"Like," I demanded, "what? Comet-tails, maybe?"
+
+"Uranium," explained Biggs simply. "As I told you, I've been
+experimenting. And I've discovered that uranium, no longer as rare and
+expensive as it was when audio plates were first invented, is the ideal
+plate."
+
+"It's been nice," I said sarcastically, "seeing you, Mr. Biggs. Any
+schoolchild knows that mobile electrons account for the electrical
+conducting ability of metals. And as the number of electrons per atom
+increases, metallic properties decrease; the metals become harder, more
+brittle, less ductile and poorer conductors. Uranium, my friend, would
+be what we Universal-hurlers call, in our simple patois, a first class
+'stinkeroo'."
+
+Biggs flushed faintly, and his liquescent larynx leaped in a lopsided
+lurch. There was a hurt look in his eyes.
+
+"Would you be convinced if I showed you?"
+
+"St. Louis," I said.
+
+"I--I beg your pardon?"
+
+"I'm from there. It's in the State of Missouri." But I gave my
+slumbrous receiving set a glance of despair. "Still--this thing's not
+working. If you'd like to try out your new floppola--"
+
+"I've got it in my quarters," he said delightedly. "I'll go get it
+right away!" And he started toward the door.
+
+I remembered, then, that I had a message for him.
+
+"Wait a minute," I said, "I just remembered. Our beloved skipper left
+you a billet-doux. He told me to tell you to ipskay the assespay at the
+aughterday."
+
+Biggs frowned. "Latin?" he hazarded.
+
+"Pig-Latin," I told him, "and horse-sense. Hanson says you've been
+wearing it on the sleeve for his gal, Diane. And if he sees it pounding
+in the open once more, he's going to chop it into mincemeat."
+
+Biggs' face looked like a national holiday on the calendar. He
+strangled gently.
+
+"But--but I like the girl, Sparks. And I believe she likes me."
+
+"She'll revere your memory," I told him frankly, "if you don't obey the
+Old Man's orders. When he issued his manifesto he had granite in his
+jaw and mayhem in his eyes. You'd better do as he says."
+
+"But it's not fair!" protested Biggs. "After all, I'm an officer and
+a--"
+
+"And a gentleman," I finished wearily, "by courtesy of the U.S.S.A.
+Yeah, I know. But in my estimation, that's just strike two against you.
+The skipper doesn't have a lot of use for you graduate Wranglers, you
+know. He graduated from the N.R.I. before there was such a thing as an
+Academy."
+
+       *       *       *       *       *
+
+Perhaps, for the sake of you Earth-lubbers who are tuned in I should
+explain this. The rivalry between Earth's two great schools of
+astronavigation is something paralleled only by that which existed,
+centuries ago, between the United States' two military schools, the
+U.S.M.A. and the U.S.N.A.
+
+The National Rocket Institute is the older college for spacemen.
+Originally designed for merchant marine training, it became a natural
+"friendly foe" of the United States Spaceways Academy when that
+institution was founded fourteen years later.
+
+Today there is a constant companionable rivalry between graduates of
+the two schools; one subordinate, of course, to the routine of daily
+work, but that flares into definite feeling when, each Earth autumn,
+the current football teams of the academies meet in their traditional
+grid battle.
+
+They tell me that in the old days soldiers and sailors the world around
+used to gather about their short-wave radios to hear the broadcast
+of the Army-Navy game. Well, it's that way--only worse--nowadays in
+space. Graduates of the N.R.I. ("Rocketeers," we call 'em) listen,
+cheek-to-jowl, with "Wranglers" from the Spaceways Academy. There's
+a lot of groaning and a lot of cheering and a lot of drinking and
+sometimes there's a sizable chunk of fisticuffing. It usually ends up
+with the representatives of the winning team standing treat, and the
+grads of the losing academy vowing they'll win "Next year!"
+
+Take our ship, for instance. The _Saturn_. I won my brevet at the
+Academy; so did Dick Todd, the second-in-command, and Lancelot Biggs
+graduated just last year. Chief Engineer Garrity, on the other hand,
+took his sheepskin from the Rocketeers' school, and so did Cap Hanson.
+
+Which made another important reason why I should do something--and do
+it mighty fast--to get the _Saturn's_ radio clicking again. Because
+the annual Rocketeer-Wrangler grid fracas was to be broadcast just two
+days from now, and my scalp wouldn't be worth the price of a secondhand
+toupee if the old grads from both schools couldn't hear the game.
+
+Biggs spluttered like my condenser would if my audio had been working,
+which it wasn't--if you know what I mean.
+
+"I'm not one to complain, Sparks. But when Hanson tries to come between
+Diane and me--"
+
+I said, "So! Mister Biggs, accept my apology. I underrated you. It's
+reached the 'Diane' stage already, has it?"
+
+"It--it--" Biggs stammered into silence. Then he said, almost meekly,
+"Sparks--can you keep a secret?"
+
+"I'm a mousetrap," I told him.
+
+"Then I'll tell you--this isn't the first time Diane and I have met.
+We--we knew each other before I came aboard the _Saturn_. As a matter
+of fact, I asked for this berth in order that I might gain her father's
+favor; so we could get married."
+
+That explained a lot of things. I had often wondered why Lancelot
+Biggs, whose uncle, Prendergast Biggs, was a Vice-president of the
+Corporation, should have chosen to serve out his junior officership on
+a wallowing, old-fashioned Earth-to-Venus freighter like the _Saturn_.
+Now it all became clear and I began to feel like the adviser of a
+lovelorn column in a daily newspaper.
+
+I said, "So to put it poetically, Biggs, you're a little bit off the
+gravs for the gal, hey?"
+
+"Little bit?" he said miserably. "Sparks, you'll never know."
+
+"That's what you think," I told him, remembering how it came out
+"friendship."
+
+"What?" Then he forgot his curiosity in a burst of--for him--uncommon
+petulance. "But I'll not take this lying down, Sparks. I'll show the
+skipper I have a right to love his daughter. I don't care if he _is_ a
+graduate of the N.R.I., I'll show the leather-pussed old space cow--"
+
+"Are you by any chance," roared a voice, "referrin' to _me_, Mister
+Biggs!"
+
+We both started. The Skipper was standing in the doorway!
+
+       *       *       *       *       *
+
+I said, "Pardon me, folks! I've got to see a guy about a shroud!" and
+tried to slide past Cap Hanson to the safety of the deck, but the Old
+Man roared me down with a blast.
+
+"Come back here, Sparks! I want you as witness!" He turned to Biggs,
+whose face looked like a prism revolving in sunlight. "So! So I'm a
+leather-pussed old space cow, _Mister_ Biggs?"
+
+Biggs stammered, "I--I--"
+
+"_What!_" Hanson's bellow raised a dozen decibels. "You impertinent
+young jackanapes! Did you hear him, Sparks? He said, 'Aye, aye!' Well,
+I'll show _you_--"
+
+He extended a horny palm. "Your rocket, sir!"
+
+Lancelot Biggs' lips quivered. He reached up and mechanically unpinned
+from its place over his left breast the tiny, shining gold rocket
+replica which is the brevet of a space lieutenant. Hanson snatched
+it. In a decisive voice he said, "I'm markin' you down, Biggs, for
+insubordination, for slander of a senior officer, conduct unbecomin' an
+officer, intent to malign an' injure, an'--Well, that's all for now.
+Maybe I'll think of a few more things later on.
+
+"To your quarters, Mister Biggs. An' consider yourself under arrest
+until further notice."
+
+Biggs saluted; turned on his heel and marched from the room. And it
+struck me, suddenly, that for once there was nothing amusing, nothing
+humorous, in the youngster's gangling walk. Oh, he stalked, yes. And
+I've often kidded him about how much like a crab on stilts he looks.
+But now I felt sort of choky when I saw the pathetic dignity in the
+set of his shoulders, the proud way he strode away without a backward
+glance.
+
+I guess I lifted my own gravs for a minute. My voice sounded harsh in
+my own ears when I snarled at Hanson, "Well, you certainly threw the
+book at him that time!"
+
+But to my surprise, Cap Hanson was grinning. He looked like an Ampie
+in a power plant. And he said, placatingly, "Oh, come now, Sparks! You
+don't think I'm such an ogre as all that, do you?"
+
+"You busted him," I accused. "You lifted his rocket and put him under
+arrest. When the Corporation learns about it, they'll--"
+
+"The Corporation," said the skipper, "isn't goin' to hear about it.
+I'm not even goin' to put this on the log. This is between you an' me
+and Lancelot Biggs, Sparks. Don't you see? I had to do somethin' to
+separate him an' Diane."
+
+I did see. And I realized how completely I was caught in the middle by
+my friendship with two guys, each of whom believed in his own ideals,
+each of whom thought he was doing the right thing. I said slowly, "I
+get it, Cap. But are you sure you're doing the right thing? After all,
+maybe Biggs and your daughter really like each other."
+
+Cap Hanson said seriously, "That's just what I'm afraid of, Sparks.
+Put yourself in my place. How would _you_ like to have a grandson what
+looked like Lancelot Biggs?"
+
+I don't know. Maybe he had something there.
+
+       *       *       *       *       *
+
+Well, to make a short story longer, that happened the first day out
+of Long Island Spaceport. Tempus, as the old Romans liked to remark,
+fidgetted. I spent the working hours of the next two days trying to
+get that confounded instrument of mine operating; I spent my off hours
+shuttling back and forth between the bridge and the brig.
+
+I had the pleasure--and, boy! you'd better know I mean it--of meeting
+Diane Hanson. She was a rag, a bone of contention and a hank of hair,
+but if she'd snapped her fingers I would have jumped out the spacelock
+and brought her back a handful of galaxies. She had a voice that made
+me feel like my backbone was charging .30 amps, and when my eyes met
+hers my knees went all wobbly.
+
+But her heart belonged to the baddy in the hoosegow. And she didn't
+care who knew it--except the Old Man. She asked me, "He's all right,
+Sparks, he's comfortable?"
+
+"He's comfortable enough," I told her. "But he's as restless as a
+squirrel in a petrified forest. He's been pacing his room so much that
+he's not only got corns, but he's got corns on his corns."
+
+She said wistfully, "If Dad would only be reasonable. Sparks, do you
+think that if I went to him and told him everything--?"
+
+I shuddered.
+
+"Don't mention it! Don't even think of it! Your old ma--I mean your
+father might read your thoughts." I forced a grin named Santa Claus,
+because I didn't believe in it myself. "Cheer up, Diane. Lancelot will
+find a way out of this trouble."
+
+"He will?" she said hopefully. "You think he will, Sparks?"
+
+"He always does," I told her. I squared myself with Kid Conscience by
+muttering under my breath, "Always--except this time."
+
+       *       *       *       *       *
+
+So finally here we were, a baker's dozen of us, in the radio turret
+on the fateful day. Twelve of us were scowling, and me--I was number
+thirteen--I was sweating like an ice-box in the Sahara. Because it was
+the day, and darn near the hour, of the Big Game back on Earth--and my
+radio _still_ was as talkative as a deaf-mute in a vacuum.
+
+Todd was there, and Chief Garrity, and Wilson, the third officer, and
+Billings and--oh, shucks!--every one of us who had studied at either of
+the two academies. And Cap Hanson was there. He was very much there. He
+was howling ghastly threats in my ears, the mildest of which was that
+if I didn't have the radio repaired within the next minute, or maybe
+less, he'd personally tattoo the word "Scoundrel" on my forehead with a
+riveting machine.
+
+I squawked, "Good golly, I'm doing the best I can! Don't you think
+I want to hear this game as much as you do? Maybe more. Because the
+Wranglers are going to beat the bejeepers out of you Rocketeers today,
+anyhow."
+
+Cap raged, "What's that?" but it took some of the blast out of his
+tubes, because he knew it was true. The Spaceways Academy team was
+strongly favored over the eleven from the N.R.I., having so far run
+through an undefeated season while the Rocketeers had lost to Army and
+Notre Dame and been tied by Yale. "What's that? Why, last year--"
+
+"That," Lieutenant Dick Todd taunted him, grinning, "was last year,
+Skipper. You beat us then, yes. But this year the shoe's on the other
+foot."
+
+"Well, anyhow," howled the Old Man, "my shoe's goin' to be
+you-know-where, Sparks, if you don't get that damn radio talkin'."
+
+I stood up and stripped off my rubber gloves. I said, "I've done
+everything I know how. I've had the thing apart twice and put it
+together again. It won't work--and for one simple reason. The
+seleno-aluminum plate is shot."
+
+Chief Garrity said, "Then get ye a new one, lad."
+
+"Right. As soon," I told him, "as we cradle into Sun City spaceport."
+
+The skipper looked like he'd bitten into an apple and found a worm.
+"You mean we're not going to hear the game?"
+
+"That's exactly what I--" Then I paused. "Wait a minute! There's a
+faint possibility we might. If his invention really works. He has a
+spare plate in his quarters, but he'll have to install it. I don't know
+how."
+
+"He?" yelled the Old Man. "Who? The man in the moon?"
+
+"The man in the doghouse," I corrected. "Biggs."
+
+"Biggs!" The skipper's look changed. Now he looked like a man who'd
+bitten into an apple and found _half_ a worm. But he turned to Dick
+Todd. "Go get him, Mister Todd," he ordered.
+
+Todd left. We all watched the clock. Todd returned, bringing with him
+L. Biggs, ex-exile. The skipper glared daggers at his First Mate.
+
+"I hear you've an invention, Mister Biggs," he said caustically. "I
+distrust it. It may turn out like some of your other brain-children.
+But this is no time to be choosey. Attach it. And be kind enough to
+look at the radio controls instead of my daughter!"
+
+Lancelot Biggs stood very, very still.
+
+"Well," roared the Old Man, "get going!"
+
+Lancelot Biggs smiled; a faint, thin smile.
+
+"For," he said, "a price, Captain."
+
+"A price!" Hanson's voice lifted the roof an inch. "Lieutenant, you're
+not tryin' to dicker with me?"
+
+"Not trying," corrected Biggs, "I'm dickering. For a price, I'll attach
+my new plate unit to the radio. Further, I will absolutely guarantee
+its operation."
+
+"You--you insolent young pup!" raved the skipper. "Todd, Wilson--put
+him in irons! No, stand still you damn fools! Let him alone! What's
+your price, Biggs? You can't have her!"
+
+"Her?" said Biggs innocently. "I don't know what you're talking about,
+Captain. My price is--my rocket!"
+
+Cap Hanson looked at the faces of the waiting graduates around him. He
+knew when he was stalemated. He said, "Well--" and reached into his
+pocket.
+
+Biggs pinned the tiny golden emblem where it belonged and I never saw a
+man look more proud. Then he said quietly, "Very well, gentlemen. Now,
+Sparks, if you'll lend me a hand here...."
+
+       *       *       *       *       *
+
+The uranium plate worked. Two minutes later, as I tied in the positive
+cable, dancing light began to play over the tubes, the galvanometer
+skipped gaily, and current began to hum once again. I yelled, "Biggs,
+you're terrific!" and reached for the vernier. But Biggs' hand stayed
+mine.
+
+"Not there, Sparks! Higher. The ultra-short wave, I believe. About one
+over fifty thousand on the Ang vernier."
+
+Cap Hanson rasped, "Sparks knows how to operate a radio, Mister Biggs,
+without your help!"
+
+"Not _this_ radio," shrugged the lanky lieutenant. "This plate is
+considerably different from the old type. Considerably different!"
+
+I thought I detected a faint note of amusement in his voice, but the
+thought vanished as swiftly as it came--for at that instant my fingers
+found the proper spot. There was a moment of whining super-het; then--
+
+"--a great day and a great crowd, folks!" came an excited voice. "And
+here comes the next play. The Wranglers have the ball on their own
+eighteen yard line, second and ten to go--"
+
+"That's it!" roared Cap Hanson exuberantly. "By golly, that's it!
+Biggs, maybe you're not the dope I think you are!"
+
+But the shocks weren't over yet. You remember I told you the Wranglers
+were strongly favored to take the Rocketeers down the ramps? Well--this
+was evidently just another example that in a traditional battle
+anything can happen--and usually does!
+
+We had had the radio on barely five minutes when the Rocketeers blocked
+a Wrangler kick, fell on it, and took possession on the Wrangler nine
+yard line. In two power plays the eleven from Cap Hanson's academy had
+plunged over for a touchdown. One minute later they made the conversion
+and the score was 7-0 for the supposed underdogs.
+
+The faces around that room were a sight! Hanson and Garrity looked like
+Venusian bunny-men in a carrot patch; those of us who acknowledged
+the Academy as our Alma Mammy would have soured milk with our smiles.
+The expression on Lancelot Biggs' face defied description. He looked
+faintly startled, faintly pleased, like a man shouting echoes against a
+mountainside.
+
+Cap Hanson groped in his hip pocket; brought forth a wad of hoarded
+Earth and Venus credits.
+
+"Well, you broken-down Wranglers--any of you like to lay a few creds on
+your team making a come-back?"
+
+He got plenty of takers. After all, one touchdown isn't a football
+game, and the Wranglers _were_ favored to win. I shelled out to the
+extent of thirty credits, Todd staked a few. Chief Garrity unbuttoned
+his ancient wallet, shooed away the moths, and risked some of his own
+credits after demanding three to one odds.
+
+And the game went on.
+
+The first quarter ended, amazingly, with Rocketeers still leading by
+that score of 7-0. In the second quarter, Cap Hanson, overflowing with
+the milk of human I-told-you-so, turned to Lancelot Biggs, crowed
+tauntingly,
+
+"Well, Mister Biggs, I take notice you're careful not to lay any bets
+on that team of your'n?"
+
+Biggs, whose eyes had been fastened hungrily on a girl in that
+room--guess which one!--gulped, and his neck-elevator bobbled. He said,
+almost embarrassedly,
+
+"I--I don't know whether I should, Captain--"
+
+Hanson snorted. "Just what I might have expected of a Wrangler. Well--"
+
+Then Chief Garrity shushed him suddenly. "Quiet, skipper! Something's
+going on!"
+
+Something was, indeed. The radio announcer was in a dither. "--and it
+looks bad for the Wranglers, friends! The Rocketeers' quick kick has
+them on the one yard line ... now they're lining up to kick out of
+trouble.... Wait a minute! Here comes a substitute from the Wrangler
+bench. It's--we don't have time to get you his name, folks, but it's
+number 36. He's going in at quarterback for O'Doule--"
+
+Hanson gibed, "Well, Biggs?"
+
+The announcer continued, "Number 36 in at quarterback, folks. Now he's
+calling signals. There's the snapback. The new man is going to kick....
+No, he's going to pass.... No, he's going to run.... No--he's fumbled!
+
+"There's a pile-up behind the goalposts! They're unscrambling the
+players. And--it's a touchdown for the Rocketeers, folks! The score is
+13-0!"
+
+Hanson let loose a great roar of delight. "There! I knew it! Good thing
+you didn't bet, Biggs!"
+
+And then, astonishingly, Lancelot Biggs spoke up. "How much would you
+like to wager, Captain?"
+
+"How--much?" Hanson looked stunned. "Every cred in my poke, Lieutenant.
+Two hundred and fifty."
+
+"I'll take that bet," said Biggs.
+
+       *       *       *       *       *
+
+I sidled to his elbow and gave him a swift poke in the ribs. I hissed,
+"Don't be a sap, Biggs! Make him give you odds if you _must_ bet--"
+
+But I spoke too late. The bet had already been placed in the hands of a
+neutral party, steward Doug Enderby. And now, a new tenseness in all of
+us, we listened to the remainder of the broadcast.
+
+In the third quarter, Dick Todd got out the crying towel. "Gosh,
+Sparks," he mourned to me, "what's the matter with our boys? This is a
+slaughter. The same as last year."
+
+Because by that time the Rocketeers had scored once again; this time on
+a smooth sixty yard forward. Garrity and Hanson were literally swooning
+with joy, by this time offering fantastic odds to any Wrangler who
+would bet. But we had all pulled in our horns. All, that is, but one
+man--First Mate Lancelot Biggs.
+
+In a moment of lull, he turned to the skipper.
+
+"Skipper," he said, "I have no more creds, but I'd like to wager for
+another stake."
+
+Hanson chuckled. "Your shirt won't fit me, Biggs."
+
+"I'll bet you," said Biggs thoughtfully, "my space claim against the
+privilege of the next three landings that the Wranglers beat the
+Rocketeers this year."
+
+We all gasped. They were _real_ stakes. Every space officer is
+granted, by the IPS, a space claim consisting of property rights in
+all unexplored areas of a given arc. He may either explore in this
+sector himself after he has served his trick, or he may delegate the
+exploration to professional space-hounds. In either case, a substantial
+percentage of all ores, precious stones and miscellany found in his
+allotted sector belong to him. Many a space officer has found himself
+fabulously rich overnight when his sector turned up with rock diamond
+detritus or granules of meteoric ore.
+
+On the other hand, Biggs was asking a great privilege. Before a space
+officer can become a commander, he must have made five personal cradle
+landings on any planet. Skippers were chary of granting permission on
+these, often making junior officers wait years to earn their Master's
+ticket.
+
+But it looked like Biggs was again sticking his neck out. I tried
+to stop him. I said, "Don't, Biggs! This game is in the bag for the
+Rocketeers. Don't be so rash!"
+
+But only half the words had garbled through my larynx when Cap Hanson
+yelped exuberantly, "_Done!_ Gentlemen, I call upon you to witness that
+wager!" And he rubbed his paws together like a raccoon eyeing a bowl of
+honey.
+
+       *       *       *       *       *
+
+Twenty to nothing! That was the score then, and it was the score
+fifteen minutes later when, with but seven more minutes remaining in
+the annual fracas, Lancelot Biggs went stark, staring mad.
+
+Now, Cap Hanson contributed to that madness. I must admit that his
+glee annoyed me. I can stand taking a licking as well as the next man,
+but I hate like hell to have someone rub it in. And that's what the
+skipper was doing. As the minutes ticked by, and the Rocketeers' margin
+became momentarily more insurmountable, he first taunted us Wranglers,
+then insulted us by offering ridiculous odds against our winning, and
+finally accused us all of lacking sportsmanship.
+
+Biggs, standing carefully aloof from Diane in order not to rouse the
+skipper's latent wrath, had a strange pallor on his cheeks. Not so
+strange, maybe. It's hard to stand by and watch everything you possess
+slipping down the skids.
+
+Cap didn't make things any easier for him. Every so often the Old Man
+would bend over, slap his thighs, and howl, "Anything more you'd like
+to bet, Mister Biggs? Whoops! I'm a space-bitten son of Jupiter if this
+ain't the most fun I ever had!"
+
+And then Lancelot Biggs jolted out of his curious stupor. He said,
+"Yes, Captain--I _do_ have something else to bet!"
+
+Even Hanson was staggered by that one. "Huh?" was his snappiest
+come-back.
+
+"If--" There was a dreamy look in Biggs' eyes. "If you'd be kind enough
+to step into the corridor with me. You and Sparks, please?"
+
+Good old Sparks; witness extraordinary. But don't think it gave me any
+pleasure to witness this example of sheer madness. As we moved through
+the doorway, away from the wondering crowd, I pleaded with Biggs,
+"Biggs, for gosh sakes--haven't you lost enough already? Don't make
+another bet!"
+
+But the glance he turned to me was mildly puzzled. And he whispered
+swiftly, "It's all right, Sparks. I know what I'm doing--"
+
+Then, outside, to the skipper,
+
+"Captain Hanson, I have only one more thing of potential value left in
+the world. The patent rights to my new invention, the practicability of
+which you have witnessed all afternoon, the uranium audio plate. This
+will be my share of the wager."
+
+Hanson said suspiciously, "I don't know--" To me, "Sparks, is it worth
+anything?"
+
+I nodded sombrely.
+
+"In my estimation," I told him, "it's worth at least a quarter million
+credits. It's the first plate I've ever seen that really works. Didn't
+you notice we're not even picking up static?"
+
+The Old Man nodded. "Very well. And my stake--?"
+
+Biggs said boldly, "Permission to continue seeing your daughter.
+And--if she'll have me--to marry her!"
+
+Something popped, and for a minute I thought it was the Old Man's
+fuses, but it was only the top of his head rising two feet.
+
+"_What!_ I thought you understood--" Then a crafty grin touched his
+lips. "Just a minute," he said cannily, "I presume that you imply by
+this that if you lose, you'll never try to see Diane again?"
+
+I wanted to shout "No!" so bad I could taste it. But I was just the
+party of the third part. Biggs' reply was just the opposite.
+
+"Yes!" he said.
+
+I groaned. Love's young dream--twenty points away!
+
+       *       *       *       *       *
+
+Let's get the agony over with. We returned to a control room full of
+madmen. For in our absence the Rocketeers had intercepted a desperate
+Wrangler pass, and the score was now 26-0. Just one point different
+from that licking they had given the U.S.S.A. boys last year. And as we
+listened glumly they kicked the extra point.
+
+And that was about all. For three plays after the next kickoff a gun
+boomed, the crowd screamed, and the announcer howled, "--and there's
+the end of the game, folks! The Rocketeers win a great ball game,
+27-0. You have been listening to this program through the courtesy of
+Hornswimble's Robot Corporation, makers of the world-famous 'Silent
+Servants.' Why be lonely? A Robot in the home is a constant companion--"
+
+Chief Garrity squealed his tight-fisted glee. His palm
+waved simultaneously beneath the noses of three sorrowful
+Wranglers--including me. "Pay up!" he demanded. "Pay up, ye benighted
+rascals--!"
+
+And Cap Hanson was one big grin on legs. He said to Biggs triumphantly,
+"Well, Biggs, I hope you've learned a lesson today! Two hundred and
+fifty credits, if you please. I'm minded to be kind with you. I'll not
+accept your space claim, my lad. But that third bet--" He beamed on
+Diane. "_That_ one I'll hold you to! And now--"
+
+Biggs moved. To the radio bank. As he moved, he spoke.
+
+"Yes. And now," he said, "I think you should all hear _this_--"
+
+He twisted the dial. There was a moment of howling; then came a voice,
+clear, crisp, enthusiastic, "--four minutes of playing time remaining,
+folks, and the Rocketeers have the ball. But it won't do them any
+good. Even if they _do_ score the result will be the same. They can't
+overcome that tremendous Wrangler lead, 33-6--"
+
+       *       *       *       *       *
+
+Thunder and lightning; madness and confusion! The control room became
+as noisy as a well-populated tomb, and out of the terrible silence came
+the faint, thin voice of the skipper demanding, "What--what does this
+mean?"
+
+Biggs boomed pleasantly, "It means, Captain, that you've lost your
+bets. You'll remember that all our wagers were based on the result of
+_this_ year's game--which you are now listening to.
+
+"It is unfortunate that human memories are so brief. Otherwise some of
+you gentlemen might have recognized the astonishing similarity of the
+broadcast we've just listened to with that of last year's game! Which
+it was!"
+
+Cap Hanson groaned, "Last year's game! But that's impossible! You
+couldn't--"
+
+"_I_ couldn't," agreed Biggs pleasantly, "but my new invention could.
+You see, I discovered in the course of my experiments that uranium has
+some definite peculiarities. It, being highly radioactive itself, has
+the strange property of being able to delay, almost indefinitely, the
+passage of electrical impulses traveling through it.
+
+"Thus, under certain circumstances--in this case, Sparks, the fact
+that it was activated in the ultra-short wave field--it can be used as
+a 'time-speech-trap' to recapture sound waves released into the ether
+long ago.
+
+"When Earth's scientists have further investigated this phenomenon I
+predict some amazing results. Possibly in the near future we may be
+able to 'listen' once again to the voices of our ancestors 'way back
+in the Elizabethan Age, the Machine Age, or the American Business Age.
+But meanwhile--" He grinned amiably. "Meanwhile, you have just heard
+a broadcast of last year's Rocketeer-Wrangler football game. _This_
+year's is just concluding!"
+
+And so it was. With the Wranglers out in front by a score of 33-6. The
+outraged screams of Chief Engineer Garrity will haunt me all my days....
+
+Afterward there were just four of us in the turret. Biggs, Diane, the
+skipper and me. The Old Man had the look of a St. Bernard who has lost
+his brandy cask. He said, "But, confound you, Biggs, you're not goin'
+to hold me to them bets, are you? When you knew all the time--"
+
+Biggs grinned.
+
+"You were magnanimous with me, Skipper. I'll be the same with you. Keep
+your money. And I'll settle for two landings. But the third bet--well,
+you know the old saying."
+
+"I know," mourned the Captain, "plenty of 'em. What one do you mean?"
+
+"'All's fair'," quoted Biggs softly, "'in love and--.' We'll skip the
+other part. Diane, honey--"
+
+One thing about the skipper; he knew when he'd lost. He forced a grin
+to his lips--and, do you know, when he'd had a look at the light in
+Diane's eyes as she moved into the circle of Biggs' arms, that grin
+began to look almost natural. He gave me the high-sign, and we started
+to leave. But I had one more question. In the doorway I turned and
+asked, "Biggs, come clean! You didn't know that thing was going to work
+that way, did you?"
+
+He frowned gently. "I didn't _know_. I suspected."
+
+"But when," I insisted, "did you really find out for sure? Your
+memory's no better than mine. Certainly you didn't remember the events
+of last year's game?"
+
+"Some of them," he said amusedly. "I caught on when I heard that
+episode about the awkward quarterback, the substitute, number 36.
+Remember?"
+
+"Remember! You bet I do. The clumsy galoot who fumbled in the end zone
+and gave the Rocketeers a touchdown? He should have been drawn and
+quartered, the dope. But how did you remember _him_?"
+
+Biggs smiled wanly.
+
+"I just left the Academy last year, Sparks," he said. "And the football
+team. _I_ was number 36!"
+
+Then he turned to Diane, and she turned to him, and--aw, hell! I know
+when I'm not wanted!
+
+
+
